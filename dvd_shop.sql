@@ -33,7 +33,7 @@ CREATE TABLE `actor` (
   `alastname` varchar(30) NOT NULL,
   `abdate` varchar(20) NOT NULL,
   `movie` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='actor detail'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='actor detail';
 
 --
 -- Dumping data for table `actor`
